@@ -14,9 +14,6 @@
 
 Software engineer with 1.5+ years of experience. Worked for award-winning agencies and Corporate. Familiar with both remote, and in-office roles. Always seeking to take ownership of the project and deliver as soon as possible. Comfortable for web, and API development.
 
-## 📚 Writing
-
-Besides developing, I also write on blog on my personal blog
 
 ## 📊 Statistics
 
@@ -30,6 +27,12 @@ Besides developing, I also write on blog on my personal blog
 <a href="https://instagram.com/gorkcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gorkcoder484" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCEaZ92FpOJX4aSYLN9Evj5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gorkcoder" height="30" width="40" /></a>
 </p>
+
+
+#### Profile Visits
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gostgmaer.codingwithmuhib)
+
 ## 🛠️ Technologies & Tools
 
 It wouldn't make sense to post every tool and language I've ever worked with, but here are some I am most comfortable with at the moment.
