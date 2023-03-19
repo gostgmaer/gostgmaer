@@ -2,24 +2,26 @@
 
  ### Hi 👋, I'm Kishor Sarkar 👋
 
-- 🔭 I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs, Material UI, Redux, RESTAPI, NodeJs, Express, Mongodb and MYSQL 
-- 🌱 I’m currently learning NodeJs and Express
-- 👯 I’m looking to collaborate on Youtube and Full Stack Developer
+- 🔭 I’m currently working on HTML, CSS, JavaScript, ReactJs,React Material UI, Redux, RESTAPI, NodeJs, Express, Mongodb and MYSQL 
+- 🌱 I’m currently learning Reactjs and Redux, thinking start NodeJs and Express
+- 👯 I’m thinking to collaborate on Youtube as a Full Stack Developer
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... MERN
 - 😄 Pronouns: ... YES
-- ⚡ Fun fact: ... I am Funny and I love to Code
+- ⚡ Fun fact: ... I love to Codeing and Travelling
 
 ## 👋 Hello! 
-Software engineer with 1.5+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
+Software engineer with 1.5+ years of experience.  Worked for award-winning agencies and Corporate.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver as soon as possible.  Comfortable for web, and API development.
 
 ## 📚 Writing
-Besides developing, I also write on [Dev.to](https://dev.to/gostgmaer) and [Medium](https://medium.com/@_aerdeljac)
+Besides developing, I also write on blog on my personal blog
 
+## 📊 Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=gostgmaer&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=gostgmaer&theme=radical&show_icons=true&count_private=true&hide_border=false&include_all_commits=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gostgmaer&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gostgmaer&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![](https://github-readme-streak-stats.herokuapp.com?user=gostgmaer&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D)]<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gostgmaer&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=10)
 
 ## Connect with me:
 <p align="left">
@@ -34,16 +36,12 @@ It wouldn't make sense to post every tool and language I've ever worked with, bu
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational&logo=vue.js)
 ![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
 ![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
-![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
 ![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
-## 📊 Statistics
-[![Kishor's github stats](https://github-readme-stats.vercel.app/api?username=gostgmaer&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gostgmaer/gostgmaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
