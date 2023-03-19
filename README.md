@@ -19,7 +19,6 @@ Besides developing, I also write on blog on my personal blog
 ## 📊 Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=gostgmaer&theme=radical&show_icons=true&count_private=true&hide_border=false&include_all_commits=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gostgmaer&theme=radical&hide_border=false)<br/>
 [![](https://github-readme-streak-stats.herokuapp.com?user=gostgmaer&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D)]<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gostgmaer&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=10)
 
