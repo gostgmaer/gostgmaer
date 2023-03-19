@@ -21,12 +21,12 @@ Software engineer with 1.5+ years of experience. Worked for award-winning agenci
 [![](https://github-readme-streak-stats.herokuapp.com?user=gostgmaer&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D)]<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gostgmaer&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=10)
 
-### Connect with me:
+<!-- ### Connect with me:
 <p align="left">
 <a href="https://fb.com/gorkcoder484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gorkcoder484" height="30" width="40" /></a>
 <a href="https://instagram.com/gorkcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gorkcoder484" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCEaZ92FpOJX4aSYLN9Evj5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gorkcoder" height="30" width="40" /></a>
-</p>
+</p> -->
 
 
 #### Profile Visits
