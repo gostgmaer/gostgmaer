@@ -127,10 +127,15 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 
 ---
 
+## 📊 Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=gostgmaer&theme=radical&show_icons=true&count_private=true&hide_border=false&include_all_commits=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gostgmaer&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=10)<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=gostgmaer&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D)<br/>
+
 ## 📊 Live Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishor-easydev&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kishor-easydev&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishor-easydev&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=kishor-easydev&style=flat-square)
-![Total Commits](https://badges.pufler.dev/commits/monthly/kishor-easydev)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gostgmaer&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gostgmaer&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gostgmaer&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=gostgmaer&style=flat-square)
+![Total Commits](https://badges.pufler.dev/commits/monthly/gostgmaer)
