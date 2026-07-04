@@ -116,9 +116,8 @@ Enterprise Identity Platform
 
 > Enable the included GitHub Action to generate the snake animation.
 
-```html
-<img src="https://raw.githubusercontent.com/gostgmaer/gostgmaer/output/github-contribution-grid-snake-dark.svg"/>
-```
+
+<img src="https://github.com/gostgmaer/gostgmaer/blob/output/github-contribution-grid-snake.svg"/>
 
 ---
 
