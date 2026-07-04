@@ -1,143 +1,166 @@
-# 👋 Hi, I'm Kishor!
 
-<!-- [![Header](https://github.com/gostgmaer/gostgmaer/blob/master/banner.png?raw=true "Header")](https://github.com/gostgmaer) -->
+# 👋 Hi, I'm Kishor Sarkar
 
-### Hi 👋, I'm <a href="https://me.easydev.in/" target="blank">Kishor Sarkar</a> 👋
+<h3 align="center">🚀 Senior Full Stack Engineer | AI Engineer | Microservices Architect | SaaS Builder</h3>
 
-- 🔭 I’m currently working on HTML, CSS, JavaScript, ReactJs, React Material UI, Redux, RESTAPI, NodeJs, Express, MongoDB and MySQL
-- 🌱 I’m currently learning Reactjs and Redux, thinking to start NodeJs and Express
-- 👯 I’m thinking to collaborate on YouTube as a Full Stack Developer
-- 🤔 I’m looking for help with advanced DevOps and cloud automation
-- 💬 Ask me about MERN stack, microservices, and SaaS
-- 😄 Pronouns: YES
-- ⚡ Fun fact: I love coding and travelling
+<p align="center">
+<a href="https://easydev.in">Website</a> •
+<a href="https://me.easydev.in">Portfolio</a> •
+<a href="https://linkedin.com/in/kishor-easydev">LinkedIn</a> •
+<a href="mailto:kishor@easydev.in">Email</a>
+</p>
 
-## 👋 Hello!
-
-Software engineer with 1.5+ years of experience. Worked for award-winning agencies and corporate. Familiar with both remote and in-office roles. Always seeking to take ownership of projects and deliver as soon as possible. Comfortable with web and API development.
-
-## 🛠️ Technologies & Tools
-
-[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
-[![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](#)
-[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+---
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer with expertise in building scalable web applications, microservices, and modern UI/UX. My journey spans across backend, frontend, and cloud technologies, delivering robust solutions for startups and enterprises.
+I'm a **Full Stack Engineer with 5+ years of experience** building scalable enterprise applications across Finance, Aviation, AI, Education and SaaS.
+
+### Current Focus
+
+- 🤖 AI Agents & Agentic AI
+- 💬 AI Customer Support Platforms
+- 🏢 Multi-Tenant SaaS
+- ☁️ Cloud Native Architecture
+- 🔐 Enterprise IAM
+- ⚡ High Performance APIs
 
 ---
 
-## 🌐 Portfolio & Services
+# 🛠 Tech Stack
 
-- **Portfolio:** [kishor-portfolio](https://easydev.in/kishor-portfolio/)
-- **Service Provider:** [EasyDev.in](https://easydev.in)
+## Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 
----
+## Skill Icons
 
-## 🛠️ Technologies & Tools
-
-**Languages:** JavaScript, TypeScript, Python, Node.js  
-**Frameworks:** Next.js, Express.js, React, Socket.io, Tailwind CSS  
-**Microservices:** Kafka, Docker, Vercel, REST APIs  
-**Testing:** Jest, Cypress, ESLint  
-**DevOps:** Docker Compose, Vercel, PM2, Ecosystem, GitHub Actions  
-**Database:** MongoDB, SQL  
-**Others:** Swagger, Postman, Email Services, File Upload, Authentication
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,express,fastapi,mongodb,postgres,mysql,redis,docker,kubernetes,aws,nginx,linux,git,github,githubactions,tailwind,materialui,graphql,postman,prisma,vscode"/>
+</p>
 
 ---
 
-## 📂 Projects
+# 🤖 AI & LLM
 
-- **Backend Services:** Authentication, Dashboard, Ecommerce, Email Microservice, File Upload, Kafka Core, Lead Microservice, SMS Delivery, User Auth, User Service, Web Agency API
-- **FullStack:** Netflix Clone, Resume Builder, PC Builder, Chat App (Socket.io)
-- **UI Projects:** Application Dashboard, EasyDev, Ecommerce Dashboard, Gallery, Mortgage, Next.js UI Components
-
----
-
-## 📫 Contact
-
-- **Email:** kishor@easydev.in
-- **LinkedIn:** [linkedin.com/in/kishor-easydev](https://linkedin.com/in/kishor-easydev)
-
----
-
-## 🏆 Achievements
-
-- Built and deployed multiple production-grade microservices
-- Contributed to open-source projects
-- Provided SaaS solutions via EasyDev.in
+- OpenAI
+- Gemini
+- Claude
+- Ollama
+- Qwen
+- Gemma
+- DeepSeek
+- LangChain
+- RAG
+- Embeddings
+- AI Agents
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishor-easydev&show_icons=true&theme=radical)
+# 🚀 Featured Projects
+
+## 🤖 EasyDev AI Customer Support
+
+Multi-tenant AI platform with:
+- AI Chat
+- WhatsApp
+- Email
+- Live Chat
+- Knowledge Base
+- Agent Workspace
+
+## 🔐 EasyDev IAM
+
+Enterprise Identity Platform
+
+- RBAC
+- JWT
+- OAuth
+- Session Management
+- API Keys
+
+## 💳 EasyDev Payment
+
+- Subscription
+- Invoice
+- Billing
+- Payment Gateway
 
 ---
 
-> "Code. Create. Innovate."
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=gostgmaer&show_icons=true&theme=tokyonight&count_private=true)
+
+![](https://streak-stats.demolab.com?user=gostgmaer&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gostgmaer&layout=compact&theme=tokyonight)
 
 ---
 
-<!-- Feel free to connect or collaborate! -->
+# 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gostgmaer&theme=tokyo-night)](https://github.com/gostgmaer)
 
 ---
 
-## 🏆 Achievements & Certifications
+# 🏆 GitHub Trophies
 
-- Built and deployed multiple production-grade microservices
-- Contributed to open-source projects
-- Provided SaaS solutions via EasyDev.in
-- Certified in Full Stack Development, Cloud Computing
+[![Trophy](https://github-profile-trophy.vercel.app/?username=gostgmaer&theme=tokyonight&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 👥 Community & Open Source
+# 🐍 Contribution Snake
 
-- Active contributor to open source
-- Mentor for junior developers
-- Engaged in tech communities and forums
+> Enable the included GitHub Action to generate the snake animation.
 
----
-
-## 💡 Personal Interests
-
-- Tech blogging, UI/UX design, automation
-- Photography, travel, reading
+```html
+<img src="https://raw.githubusercontent.com/gostgmaer/gostgmaer/output/github-contribution-grid-snake-dark.svg"/>
+```
 
 ---
 
-## 📰 Blog & Articles
+# 📊 Profile Summary Cards
 
-- [EasyDev Blog](https://easydev.in/blog)
-- [Medium](https://medium.com/@kishor-easydev)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gostgmaer&theme=tokyonight)
 
----
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gostgmaer&theme=tokyonight)
 
-## 🌟 Testimonials & Endorsements
-
-> "Kishor delivers scalable solutions with exceptional quality." — Client
-> "A reliable mentor and open source contributor." — Colleague
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gostgmaer&theme=tokyonight)
 
 ---
 
+# 🚧 Current Projects
 
-## 📊 Live Stats & Activity
+- EasyDev AI Platform
+- EasyDev IAM
+- EasyDev Payment
+- Notification Service
+- AI Job Agent
+- Communication AI
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gostgmaer&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gostgmaer&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gostgmaer&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=gostgmaer&style=flat-square)
-![Total Commits](https://badges.pufler.dev/commits/monthly/gostgmaer)
+---
 
+# 🎯 Goals
 
+- Build world-class AI SaaS products
+- Grow EasyDev ecosystem
+- Publish open-source libraries
+- Contribute to AI tooling
 
-#### Profile Visits
+---
 
-![visitors] (https://visitor-badge.glitch.me/badge?page_id=gostgmaer.codingwithmuhib)
+# 📫 Connect
+
+- 🌐 https://easydev.in
+- 💼 https://me.easydev.in
+- 📧 kishor@easydev.in
+- 💼 https://linkedin.com/in/kishor-easydev
+
+---
+
+![](https://komarev.com/ghpvc/?username=gostgmaer&label=Profile%20Views&style=for-the-badge)
+
+> **Building scalable software, AI-powered products, and developer experiences that solve real-world problems.**
